@@ -1,1 +1,1 @@
-# [Посилання на репозиторій 2 роботи](https://github.com/Nild-Sen/Simple-project)
+# [Посилання на репозиторій Simple-project](https://github.com/Nild-Sen/Simple-project)
